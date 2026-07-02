@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPM",
+  "description": "Aplikasi Generator Perencanaan Pembelajaran Mendalam (RPM) otomatis untuk semua jenjang dan mata pelajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
